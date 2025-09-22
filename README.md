@@ -8,11 +8,11 @@
 
 This project focuses on designing and deploying a **robust, scalable cloud architecture** on AWS using **Terraform** for Infrastructure as Code (IaC). It combines cloud architecture planning with automation to provision and manage essential AWS resources.
 
-The goal is to create a cloud environment that mirrors a detailed architecture plan including EC2 instances, S3 buckets, RDS databases, security groups, IAM roles, and Elastic Load Balancers fully automated through Terraform.
-
 ---
 
 ## 🎯 Objectives
+
+The goal is to create a cloud environment that mirrors a detailed architecture plan including EC2 instances, S3 buckets, RDS databases, security groups, IAM roles, and Elastic Load Balancers fully automated through Terraform.
 
 - Design a comprehensive cloud architecture plan showing component connections and data flow
 - Implement and automate the architecture using Terraform configurations
