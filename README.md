@@ -16,8 +16,12 @@ The goal is to create a cloud environment that mirrors a detailed architecture p
 
 - Design a comprehensive cloud architecture plan showing component connections and data flow
 - Implement and automate the architecture using Terraform configurations
-- Master key Terraform commands to initialize, plan, and apply infrastructure changes
+- Master key Terraform commands to initialise, plan, and apply infrastructure changes
 - Demonstrate ability to manage infrastructure as code with version control
+
+---
+
+## ✨ Features
 
 ---
 
@@ -29,11 +33,44 @@ The goal is to create a cloud environment that mirrors a detailed architecture p
 
 ---
 
-## ✅ Outcome
+## 📦 Getting Started
 
-- Hands-on experience designing cloud architecture with scalable AWS components
-- Proficiency in automating infrastructure deployment with Terraform
-- Understanding of how to manage infrastructure lifecycle via IaC and Git
-- Ability to create a cloud environment that matches planned architecture efficiently
+### ✅ Prerequisites
+
+To get started, you should have:
+
+- Basic understanding of AWS services (VPC, subnets, security groups)  
+- Familiarity with Terraform syntax and workflow  
+- Knowledge of networking concepts (IP addresses, routing, firewalls)  
+- AWS CLI configured and access to an AWS account with the right permissions  
 
 ---
+
+### 🛠️ Installation Notes
+
+- All infrastructure is deployed using the **Terraform CLI & AWS CLI**  
+- Resources were tested in the `eu-north-1` region  
+- Project built and verified with **Terraform v1.13.3**  
+- AWS resources were properly cleaned up after deployment  
+
+---
+
+### 📖 Usage
+
+---
+
+## ✅ Key Takeaways
+
+---
+
+## 🔗 Resources
+
+---
+
+## 🐛 Issues
+
+---
+
+## 📜 License
+
+Authored by © Genesis Phillips
